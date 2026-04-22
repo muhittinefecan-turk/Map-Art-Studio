@@ -1,0 +1,3008 @@
+[
+    {
+        "name": "acacia_leaves",
+        "hsl": [
+            0,
+            0,
+            58.43137254901961
+        ],
+        "image": "acacia_leaves.png"
+    },
+    {
+        "name": "acacia_log_top",
+        "hsl": [
+            21.249999999999993,
+            31.57894736842105,
+            40.3921568627451
+        ],
+        "image": "acacia_log_top.png"
+    },
+    {
+        "name": "acacia_log",
+        "hsl": [
+            37.49999999999997,
+            8.421052631578947,
+            37.254901960784316
+        ],
+        "image": "acacia_log.png"
+    },
+    {
+        "name": "acacia_planks",
+        "hsl": [
+            20.33898305084746,
+            40.41095890410959,
+            42.745098039215684
+        ],
+        "image": "acacia_planks.png"
+    },
+    {
+        "name": "amethyst_block",
+        "hsl": [
+            263.22580645161287,
+            42.0814479638009,
+            56.666666666666664
+        ],
+        "image": "amethyst_block.png"
+    },
+    {
+        "name": "ancient_debris_top",
+        "hsl": [
+            14.594594594594598,
+            24.183006535947715,
+            30
+        ],
+        "image": "ancient_debris_top.png"
+    },
+    {
+        "name": "ancient_debris_side",
+        "hsl": [
+            12,
+            26.31578947368421,
+            29.80392156862745
+        ],
+        "image": "ancient_debris_side.png"
+    },
+    {
+        "name": "andesite",
+        "hsl": [
+            240,
+            0.4219409282700407,
+            53.529411764705884
+        ],
+        "image": "andesite.png"
+    },
+    {
+        "name": "azalea_leaves",
+        "hsl": [
+            81.42857142857143,
+            44.30379746835443,
+            30.980392156862745
+        ],
+        "image": "azalea_leaves.png"
+    },
+    {
+        "name": "bamboo_block_top",
+        "hsl": [
+            62.25000000000001,
+            26.143790849673206,
+            40
+        ],
+        "image": "bamboo_block_top.png"
+    },
+    {
+        "name": "bamboo_block",
+        "hsl": [
+            71.86046511627906,
+            27.92207792207792,
+            39.6078431372549
+        ],
+        "image": "bamboo_block.png"
+    },
+    {
+        "name": "bamboo_mosaic",
+        "hsl": [
+            49.28571428571428,
+            46.28099173553719,
+            52.54901960784314
+        ],
+        "image": "bamboo_mosaic.png"
+    },
+    {
+        "name": "bamboo_planks",
+        "hsl": [
+            49.380530973451336,
+            47.679324894514764,
+            53.529411764705884
+        ],
+        "image": "bamboo_planks.png"
+    },
+    {
+        "name": "basalt_top",
+        "hsl": [
+            227.99999999999991,
+            2.9940119760479105,
+            32.745098039215684
+        ],
+        "image": "basalt_top.png"
+    },
+    {
+        "name": "basalt_side",
+        "hsl": [
+            240,
+            3.3112582781457025,
+            29.607843137254903
+        ],
+        "image": "basalt_side.png"
+    },
+    {
+        "name": "bedrock",
+        "hsl": [
+            0,
+            0,
+            33.33333333333333
+        ],
+        "image": "bedrock.png"
+    },
+    {
+        "name": "birch_leaves",
+        "hsl": [
+            0,
+            0.799999999999997,
+            50.98039215686274
+        ],
+        "image": "birch_leaves.png"
+    },
+    {
+        "name": "birch_log_top",
+        "hsl": [
+            45.517241379310335,
+            31.86813186813186,
+            64.31372549019608
+        ],
+        "image": "birch_log_top.png"
+    },
+    {
+        "name": "birch_log",
+        "hsl": [
+            42.857142857142925,
+            8.433734939759036,
+            83.72549019607843
+        ],
+        "image": "birch_log.png"
+    },
+    {
+        "name": "birch_planks",
+        "hsl": [
+            45.633802816901415,
+            36.04060913705584,
+            61.372549019607845
+        ],
+        "image": "birch_planks.png"
+    },
+    {
+        "name": "blackstone_top",
+        "hsl": [
+            300,
+            7.692307692307692,
+            15.294117647058824
+        ],
+        "image": "blackstone_top.png"
+    },
+    {
+        "name": "blackstone",
+        "hsl": [
+            308.57142857142856,
+            9.090909090909086,
+            15.098039215686276
+        ],
+        "image": "blackstone.png"
+    },
+    {
+        "name": "black_concrete",
+        "hsl": [
+            222.85714285714286,
+            30.434782608695656,
+            4.509803921568627
+        ],
+        "image": "black_concrete.png"
+    },
+    {
+        "name": "black_concrete_powder",
+        "hsl": [
+            222.85714285714286,
+            12.280701754385966,
+            11.176470588235293
+        ],
+        "image": "black_concrete_powder.png"
+    },
+    {
+        "name": "black_stained_glass",
+        "hsl": [
+            0,
+            0,
+            10.196078431372548
+        ],
+        "image": "black_stained_glass.png"
+    },
+    {
+        "name": "black_terracotta",
+        "hsl": [
+            19.999999999999996,
+            39.62264150943396,
+            10.392156862745098
+        ],
+        "image": "black_terracotta.png"
+    },
+    {
+        "name": "black_wool",
+        "hsl": [
+            240,
+            10.638297872340424,
+            9.215686274509805
+        ],
+        "image": "black_wool.png"
+    },
+    {
+        "name": "blue_concrete",
+        "hsl": [
+            238.77551020408166,
+            30.43478260869565,
+            36.86274509803922
+        ],
+        "image": "blue_concrete.png"
+    },
+    {
+        "name": "blue_concrete_powder",
+        "hsl": [
+            238.1443298969072,
+            35.53113553113553,
+            46.470588235294116
+        ],
+        "image": "blue_concrete_powder.png"
+    },
+    {
+        "name": "blue_ice",
+        "hsl": [
+            217.22627737226279,
+            97.1631205673759,
+            72.35294117647058
+        ],
+        "image": "blue_ice.png"
+    },
+    {
+        "name": "blue_stained_glass",
+        "hsl": [
+            227.8125,
+            45.39007092198582,
+            44.705882352941174
+        ],
+        "image": "blue_stained_glass.png"
+    },
+    {
+        "name": "blue_terracotta",
+        "hsl": [
+            267.0967741935484,
+            20.529801324503314,
+            29.607843137254903
+        ],
+        "image": "blue_terracotta.png"
+    },
+    {
+        "name": "blue_wool",
+        "hsl": [
+            237.71428571428572,
+            35.1170568561873,
+            41.372549019607845
+        ],
+        "image": "blue_wool.png"
+    },
+    {
+        "name": "bone_block_top",
+        "hsl": [
+            52.25806451612906,
+            25.6198347107438,
+            76.27450980392156
+        ],
+        "image": "bone_block_top.png"
+    },
+    {
+        "name": "bone_block_side",
+        "hsl": [
+            51.42857142857138,
+            28.76712328767126,
+            85.68627450980392
+        ],
+        "image": "bone_block_side.png"
+    },
+    {
+        "name": "oak_planks",
+        "hsl": [
+            37.590361445783124,
+            30.85501858736059,
+            47.25490196078431
+        ],
+        "image": "oak_planks.png"
+    },
+    {
+        "name": "bookshelf",
+        "hsl": [
+            36.842105263157904,
+            32.20338983050847,
+            34.705882352941174
+        ],
+        "image": "bookshelf.png"
+    },
+    {
+        "name": "brain_coral_block",
+        "hsl": [
+            324.82758620689657,
+            54.71698113207547,
+            58.43137254901961
+        ],
+        "image": "brain_coral_block.png"
+    },
+    {
+        "name": "bricks",
+        "hsl": [
+            13.235294117647062,
+            24.637681159420293,
+            45.88235294117647
+        ],
+        "image": "bricks.png"
+    },
+    {
+        "name": "brown_concrete",
+        "hsl": [
+            26.25,
+            50,
+            25.098039215686274
+        ],
+        "image": "brown_concrete.png"
+    },
+    {
+        "name": "brown_concrete_powder",
+        "hsl": [
+            25.833333333333332,
+            40,
+            35.294117647058826
+        ],
+        "image": "brown_concrete_powder.png"
+    },
+    {
+        "name": "brown_mushroom_block",
+        "hsl": [
+            27.352941176470583,
+            24.28571428571429,
+            45.09803921568628
+        ],
+        "image": "brown_mushroom_block.png"
+    },
+    {
+        "name": "brown_stained_glass",
+        "hsl": [
+            29.999999999999996,
+            34.21052631578948,
+            29.80392156862745
+        ],
+        "image": "brown_stained_glass.png"
+    },
+    {
+        "name": "brown_terracotta",
+        "hsl": [
+            21.951219512195127,
+            36.28318584070796,
+            22.15686274509804
+        ],
+        "image": "brown_terracotta.png"
+    },
+    {
+        "name": "brown_wool",
+        "hsl": [
+            25.479452054794518,
+            47.09677419354838,
+            30.3921568627451
+        ],
+        "image": "brown_wool.png"
+    },
+    {
+        "name": "bubble_coral_block",
+        "hsl": [
+            301.294964028777,
+            43.57366771159875,
+            37.450980392156865
+        ],
+        "image": "bubble_coral_block.png"
+    },
+    {
+        "name": "budding_amethyst",
+        "hsl": [
+            263.73626373626377,
+            40.08810572687224,
+            55.490196078431374
+        ],
+        "image": "budding_amethyst.png"
+    },
+    {
+        "name": "calcite",
+        "hsl": [
+            80.00000000000001,
+            4.615384615384599,
+            87.25490196078431
+        ],
+        "image": "calcite.png"
+    },
+    {
+        "name": "cherry_leaves",
+        "hsl": [
+            337.89473684210526,
+            53.271028037383196,
+            79.01960784313727
+        ],
+        "image": "cherry_leaves.png"
+    },
+    {
+        "name": "cherry_log_top",
+        "hsl": [
+            5.000000000000018,
+            25.53191489361702,
+            63.13725490196078
+        ],
+        "image": "cherry_log_top.png"
+    },
+    {
+        "name": "cherry_log",
+        "hsl": [
+            330,
+            25,
+            17.254901960784313
+        ],
+        "image": "cherry_log.png"
+    },
+    {
+        "name": "cherry_planks",
+        "hsl": [
+            6.792452830188658,
+            47.74774774774773,
+            78.23529411764706
+        ],
+        "image": "cherry_planks.png"
+    },
+    {
+        "name": "chiseled_deepslate",
+        "hsl": [
+            240,
+            0.9174311926605536,
+            21.372549019607845
+        ],
+        "image": "chiseled_deepslate.png"
+    },
+    {
+        "name": "chiseled_nether_bricks",
+        "hsl": [
+            349.5652173913044,
+            32.3943661971831,
+            13.92156862745098
+        ],
+        "image": "chiseled_nether_bricks.png"
+    },
+    {
+        "name": "chiseled_polished_blackstone",
+        "hsl": [
+            279.99999999999994,
+            8.571428571428577,
+            20.588235294117645
+        ],
+        "image": "chiseled_polished_blackstone.png"
+    },
+    {
+        "name": "chiseled_quartz_block_top",
+        "hsl": [
+            39.999999999999964,
+            24.590163934426233,
+            88.0392156862745
+        ],
+        "image": "chiseled_quartz_block_top.png"
+    },
+    {
+        "name": "chiseled_quartz_block",
+        "hsl": [
+            38.571428571428534,
+            23.33333333333334,
+            88.23529411764706
+        ],
+        "image": "chiseled_quartz_block.png"
+    },
+    {
+        "name": "red_sandstone_top",
+        "hsl": [
+            26.8,
+            50.33557046979866,
+            41.568627450980394
+        ],
+        "image": "red_sandstone_top.png"
+    },
+    {
+        "name": "chiseled_red_sandstone",
+        "hsl": [
+            26.923076923076916,
+            52,
+            41.17647058823529
+        ],
+        "image": "chiseled_red_sandstone.png"
+    },
+    {
+        "name": "sandstone_top",
+        "hsl": [
+            48.8888888888889,
+            46.551724137931025,
+            77.25490196078431
+        ],
+        "image": "sandstone_top.png"
+    },
+    {
+        "name": "chiseled_sandstone",
+        "hsl": [
+            47.213114754098356,
+            43.88489208633094,
+            72.74509803921568
+        ],
+        "image": "chiseled_sandstone.png"
+    },
+    {
+        "name": "chiseled_stone_bricks",
+        "hsl": [
+            300,
+            0.41841004184100267,
+            46.86274509803921
+        ],
+        "image": "chiseled_stone_bricks.png"
+    },
+    {
+        "name": "clay",
+        "hsl": [
+            223.3333333333333,
+            10.588235294117641,
+            66.66666666666666
+        ],
+        "image": "clay.png"
+    },
+    {
+        "name": "coal_block",
+        "hsl": [
+            0,
+            0,
+            6.2745098039215685
+        ],
+        "image": "coal_block.png"
+    },
+    {
+        "name": "coal_ore",
+        "hsl": [
+            60,
+            0.4739336492891046,
+            41.37254901960784
+        ],
+        "image": "coal_ore.png"
+    },
+    {
+        "name": "coarse_dirt",
+        "hsl": [
+            27.000000000000004,
+            33.70786516853933,
+            34.90196078431372
+        ],
+        "image": "coarse_dirt.png"
+    },
+    {
+        "name": "cobbled_deepslate",
+        "hsl": [
+            240,
+            2.5316455696202533,
+            30.980392156862745
+        ],
+        "image": "cobbled_deepslate.png"
+    },
+    {
+        "name": "cobblestone",
+        "hsl": [
+            300,
+            0.39215686274509665,
+            50
+        ],
+        "image": "cobblestone.png"
+    },
+    {
+        "name": "copper_block",
+        "hsl": [
+            14.464285714285715,
+            47.05882352941176,
+            53.333333333333336
+        ],
+        "image": "copper_block.png"
+    },
+    {
+        "name": "copper_ore",
+        "hsl": [
+            70.0000000000001,
+            2.4390243902439055,
+            48.23529411764706
+        ],
+        "image": "copper_ore.png"
+    },
+    {
+        "name": "cracked_deepslate_bricks",
+        "hsl": [
+            0,
+            0,
+            25.49019607843137
+        ],
+        "image": "cracked_deepslate_bricks.png"
+    },
+    {
+        "name": "cracked_deepslate_tiles",
+        "hsl": [
+            0,
+            0,
+            20.784313725490197
+        ],
+        "image": "cracked_deepslate_tiles.png"
+    },
+    {
+        "name": "cracked_nether_bricks",
+        "hsl": [
+            348,
+            33.33333333333333,
+            11.76470588235294
+        ],
+        "image": "cracked_nether_bricks.png"
+    },
+    {
+        "name": "cracked_polished_blackstone_bricks",
+        "hsl": [
+            300,
+            7.3170731707317085,
+            16.07843137254902
+        ],
+        "image": "cracked_polished_blackstone_bricks.png"
+    },
+    {
+        "name": "cracked_stone_bricks",
+        "hsl": [
+            0,
+            0,
+            46.27450980392157
+        ],
+        "image": "cracked_stone_bricks.png"
+    },
+    {
+        "name": "crimson_planks",
+        "hsl": [
+            335.7692307692308,
+            34.666666666666664,
+            29.411764705882355
+        ],
+        "image": "crimson_planks.png"
+    },
+    {
+        "name": "crimson_stem_top",
+        "hsl": [
+            340.95238095238096,
+            38.65030674846626,
+            31.960784313725487
+        ],
+        "image": "crimson_stem_top.png"
+    },
+    {
+        "name": "crying_obsidian",
+        "hsl": [
+            267.6,
+            71.42857142857142,
+            13.725490196078432
+        ],
+        "image": "crying_obsidian.png"
+    },
+    {
+        "name": "cut_copper",
+        "hsl": [
+            14.594594594594595,
+            46.44351464435147,
+            53.13725490196079
+        ],
+        "image": "cut_copper.png"
+    },
+    {
+        "name": "cut_red_sandstone",
+        "hsl": [
+            26.751592356687897,
+            54.325259515570934,
+            43.333333333333336
+        ],
+        "image": "cut_red_sandstone.png"
+    },
+    {
+        "name": "cut_sandstone",
+        "hsl": [
+            47.58620689655174,
+            43.93939393939394,
+            74.11764705882354
+        ],
+        "image": "cut_sandstone.png"
+    },
+    {
+        "name": "cyan_concrete",
+        "hsl": [
+            188.8695652173913,
+            32.57790368271955,
+            30.784313725490197
+        ],
+        "image": "cyan_concrete.png"
+    },
+    {
+        "name": "cyan_concrete_powder",
+        "hsl": [
+            184.5,
+            37.974683544303794,
+            38.03921568627452
+        ],
+        "image": "cyan_concrete_powder.png"
+    },
+    {
+        "name": "cyan_stained_glass",
+        "hsl": [
+            198.94736842105263,
+            26.95035460992908,
+            44.705882352941174
+        ],
+        "image": "cyan_stained_glass.png"
+    },
+    {
+        "name": "cyan_terracotta",
+        "hsl": [
+            180,
+            2.247191011235955,
+            34.90196078431372
+        ],
+        "image": "cyan_terracotta.png"
+    },
+    {
+        "name": "cyan_wool",
+        "hsl": [
+            183.38709677419357,
+            36.04651162790697,
+            32.549019607843135
+        ],
+        "image": "cyan_wool.png"
+    },
+    {
+        "name": "dark_oak_leaves",
+        "hsl": [
+            120,
+            0.47846889952152943,
+            59.01960784313726
+        ],
+        "image": "dark_oak_leaves.png"
+    },
+    {
+        "name": "dark_oak_log_top",
+        "hsl": [
+            30.000000000000007,
+            51.11111111111112,
+            17.64705882352941
+        ],
+        "image": "dark_oak_log_top.png"
+    },
+    {
+        "name": "dark_oak_log",
+        "hsl": [
+            37.058823529411775,
+            39.53488372093023,
+            16.862745098039216
+        ],
+        "image": "dark_oak_log.png"
+    },
+    {
+        "name": "dark_oak_planks",
+        "hsl": [
+            29.361702127659576,
+            54.02298850574713,
+            17.058823529411764
+        ],
+        "image": "dark_oak_planks.png"
+    },
+    {
+        "name": "dark_prismarine",
+        "hsl": [
+            156.92307692307693,
+            27.272727272727277,
+            28.03921568627451
+        ],
+        "image": "dark_prismarine.png"
+    },
+    {
+        "name": "dead_brain_coral_block",
+        "hsl": [
+            24.000000000000018,
+            4.201680672268904,
+            46.666666666666664
+        ],
+        "image": "dead_brain_coral_block.png"
+    },
+    {
+        "name": "dead_bubble_coral_block",
+        "hsl": [
+            23.07692307692304,
+            5.0193050193050235,
+            49.21568627450981
+        ],
+        "image": "dead_bubble_coral_block.png"
+    },
+    {
+        "name": "dead_fire_coral_block",
+        "hsl": [
+            19.999999999999975,
+            4.65116279069768,
+            49.411764705882355
+        ],
+        "image": "dead_fire_coral_block.png"
+    },
+    {
+        "name": "dead_horn_coral_block",
+        "hsl": [
+            20,
+            4.724409448818897,
+            50.19607843137255
+        ],
+        "image": "dead_horn_coral_block.png"
+    },
+    {
+        "name": "dead_tube_coral_block",
+        "hsl": [
+            18.000000000000032,
+            3.8461538461538436,
+            49.01960784313725
+        ],
+        "image": "dead_tube_coral_block.png"
+    },
+    {
+        "name": "deepslate_top",
+        "hsl": [
+            240,
+            1.1363636363636325,
+            34.509803921568626
+        ],
+        "image": "deepslate_top.png"
+    },
+    {
+        "name": "deepslate",
+        "hsl": [
+            240,
+            1.8404907975460145,
+            31.960784313725487
+        ],
+        "image": "deepslate.png"
+    },
+    {
+        "name": "deepslate_bricks",
+        "hsl": [
+            0,
+            0,
+            27.84313725490196
+        ],
+        "image": "deepslate_bricks.png"
+    },
+    {
+        "name": "deepslate_coal_ore",
+        "hsl": [
+            240,
+            1.3333333333333286,
+            29.411764705882355
+        ],
+        "image": "deepslate_coal_ore.png"
+    },
+    {
+        "name": "deepslate_copper_ore",
+        "hsl": [
+            74.99999999999994,
+            2.197802197802198,
+            35.686274509803916
+        ],
+        "image": "deepslate_copper_ore.png"
+    },
+    {
+        "name": "deepslate_diamond_ore",
+        "hsl": [
+            182.5,
+            12.631578947368421,
+            37.254901960784316
+        ],
+        "image": "deepslate_diamond_ore.png"
+    },
+    {
+        "name": "deepslate_emerald_ore",
+        "hsl": [
+            143.07692307692307,
+            14.285714285714283,
+            35.68627450980392
+        ],
+        "image": "deepslate_emerald_ore.png"
+    },
+    {
+        "name": "deepslate_gold_ore",
+        "hsl": [
+            40.54054054054054,
+            19.170984455958546,
+            37.84313725490196
+        ],
+        "image": "deepslate_gold_ore.png"
+    },
+    {
+        "name": "deepslate_iron_ore",
+        "hsl": [
+            24.999999999999982,
+            5.94059405940594,
+            39.6078431372549
+        ],
+        "image": "deepslate_iron_ore.png"
+    },
+    {
+        "name": "deepslate_lapis_ore",
+        "hsl": [
+            221.14285714285714,
+            17.948717948717952,
+            38.23529411764706
+        ],
+        "image": "deepslate_lapis_ore.png"
+    },
+    {
+        "name": "deepslate_redstone_ore",
+        "hsl": [
+            356.25,
+            17.97752808988764,
+            34.90196078431372
+        ],
+        "image": "deepslate_redstone_ore.png"
+    },
+    {
+        "name": "deepslate_tiles",
+        "hsl": [
+            0,
+            0,
+            21.568627450980394
+        ],
+        "image": "deepslate_tiles.png"
+    },
+    {
+        "name": "diamond_block",
+        "hsl": [
+            176.11510791366905,
+            79.42857142857143,
+            65.68627450980392
+        ],
+        "image": "diamond_block.png"
+    },
+    {
+        "name": "diamond_ore",
+        "hsl": [
+            180,
+            8.064516129032263,
+            51.37254901960784
+        ],
+        "image": "diamond_ore.png"
+    },
+    {
+        "name": "diorite",
+        "hsl": [
+            300,
+            0.7518796992481177,
+            73.92156862745098
+        ],
+        "image": "diorite.png"
+    },
+    {
+        "name": "dirt",
+        "hsl": [
+            25.97014925373134,
+            21.682847896440133,
+            39.411764705882355
+        ],
+        "image": "dirt.png"
+    },
+    {
+        "name": "dripstone_block",
+        "hsl": [
+            21.95121951219512,
+            14.487632508833926,
+            44.509803921568626
+        ],
+        "image": "dripstone_block.png"
+    },
+    {
+        "name": "emerald_block",
+        "hsl": [
+            137.14285714285714,
+            60.75471698113207,
+            48.0392156862745
+        ],
+        "image": "emerald_block.png"
+    },
+    {
+        "name": "emerald_ore",
+        "hsl": [
+            137.14285714285714,
+            10.526315789473683,
+            47.843137254901954
+        ],
+        "image": "emerald_ore.png"
+    },
+    {
+        "name": "end_stone",
+        "hsl": [
+            63.69230769230771,
+            50.3875968992248,
+            74.70588235294117
+        ],
+        "image": "end_stone.png"
+    },
+    {
+        "name": "end_stone_bricks",
+        "hsl": [
+            65.80645161290323,
+            50,
+            75.68627450980392
+        ],
+        "image": "end_stone_bricks.png"
+    },
+    {
+        "name": "exposed_copper",
+        "hsl": [
+            23.157894736842113,
+            23.265306122448976,
+            51.96078431372548
+        ],
+        "image": "exposed_copper.png"
+    },
+    {
+        "name": "exposed_cut_copper",
+        "hsl": [
+            23.773584905660393,
+            20.784313725490193,
+            50
+        ],
+        "image": "exposed_cut_copper.png"
+    },
+    {
+        "name": "fire_coral_block",
+        "hsl": [
+            354.4186046511628,
+            41.47909967845659,
+            39.01960784313726
+        ],
+        "image": "fire_coral_block.png"
+    },
+    {
+        "name": "flowering_azalea_leaves",
+        "hsl": [
+            73.20000000000002,
+            29.06976744186046,
+            33.72549019607843
+        ],
+        "image": "flowering_azalea_leaves.png"
+    },
+    {
+        "name": "frosted_ice_0",
+        "hsl": [
+            217.69911504424778,
+            94.9579831932773,
+            76.66666666666666
+        ],
+        "image": "frosted_ice_0.png"
+    },
+    {
+        "name": "frosted_ice_1",
+        "hsl": [
+            218.0357142857143,
+            94.91525423728815,
+            76.86274509803923
+        ],
+        "image": "frosted_ice_1.png"
+    },
+    {
+        "name": "frosted_ice_2",
+        "hsl": [
+            218.08695652173915,
+            95.04132231404958,
+            76.27450980392156
+        ],
+        "image": "frosted_ice_2.png"
+    },
+    {
+        "name": "frosted_ice_3",
+        "hsl": [
+            217.6271186440678,
+            95.16129032258064,
+            75.68627450980392
+        ],
+        "image": "frosted_ice_3.png"
+    },
+    {
+        "name": "gilded_blackstone",
+        "hsl": [
+            16.66666666666668,
+            19.148936170212767,
+            18.43137254901961
+        ],
+        "image": "gilded_blackstone.png"
+    },
+    {
+        "name": "glass",
+        "hsl": [
+            190.21276595744683,
+            39.495798319327704,
+            76.66666666666666
+        ],
+        "image": "glass.png"
+    },
+    {
+        "name": "glowstone",
+        "hsl": [
+            32.04545454545453,
+            34.645669291338585,
+            50.19607843137255
+        ],
+        "image": "glowstone.png"
+    },
+    {
+        "name": "gold_block",
+        "hsl": [
+            47.608695652173914,
+            91.0891089108911,
+            60.392156862745104
+        ],
+        "image": "gold_block.png"
+    },
+    {
+        "name": "gold_ore",
+        "hsl": [
+            42.63157894736843,
+            14.728682170542633,
+            49.411764705882355
+        ],
+        "image": "gold_ore.png"
+    },
+    {
+        "name": "granite",
+        "hsl": [
+            16.190476190476186,
+            22.909090909090914,
+            46.07843137254902
+        ],
+        "image": "granite.png"
+    },
+    {
+        "name": "gravel",
+        "hsl": [
+            0,
+            1.9920318725099644,
+            50.78431372549019
+        ],
+        "image": "gravel.png"
+    },
+    {
+        "name": "gray_concrete",
+        "hsl": [
+            214.2857142857143,
+            5.982905982905979,
+            22.941176470588236
+        ],
+        "image": "gray_concrete.png"
+    },
+    {
+        "name": "gray_concrete_powder",
+        "hsl": [
+            210,
+            4.938271604938272,
+            31.76470588235294
+        ],
+        "image": "gray_concrete_powder.png"
+    },
+    {
+        "name": "gray_stained_glass",
+        "hsl": [
+            0,
+            0,
+            29.80392156862745
+        ],
+        "image": "gray_stained_glass.png"
+    },
+    {
+        "name": "gray_terracotta",
+        "hsl": [
+            16.363636363636363,
+            23.404255319148934,
+            18.43137254901961
+        ],
+        "image": "gray_terracotta.png"
+    },
+    {
+        "name": "gray_wool",
+        "hsl": [
+            206.66666666666669,
+            6.666666666666663,
+            26.47058823529412
+        ],
+        "image": "gray_wool.png"
+    },
+    {
+        "name": "green_concrete",
+        "hsl": [
+            79.63636363636364,
+            43.30708661417323,
+            24.901960784313726
+        ],
+        "image": "green_concrete.png"
+    },
+    {
+        "name": "green_concrete_powder",
+        "hsl": [
+            77.83783783783784,
+            45.121951219512184,
+            32.15686274509804
+        ],
+        "image": "green_concrete_powder.png"
+    },
+    {
+        "name": "green_stained_glass",
+        "hsl": [
+            80,
+            23.49397590361446,
+            34.90196078431372
+        ],
+        "image": "green_stained_glass.png"
+    },
+    {
+        "name": "green_terracotta",
+        "hsl": [
+            70.2439024390244,
+            32.800000000000004,
+            24.50980392156863
+        ],
+        "image": "green_terracotta.png"
+    },
+    {
+        "name": "green_wool",
+        "hsl": [
+            78.07228915662651,
+            60.58394160583941,
+            26.86274509803922
+        ],
+        "image": "green_wool.png"
+    },
+    {
+        "name": "hay_block_top",
+        "hsl": [
+            49.48051948051947,
+            46.385542168674704,
+            34.90196078431372
+        ],
+        "image": "hay_block_top.png"
+    },
+    {
+        "name": "hay_block_side",
+        "hsl": [
+            46.40624999999999,
+            41.830065359477125,
+            40
+        ],
+        "image": "hay_block_side.png"
+    },
+    {
+        "name": "honeycomb_block",
+        "hsl": [
+            35.57788944723618,
+            79.2828685258964,
+            50.78431372549019
+        ],
+        "image": "honeycomb_block.png"
+    },
+    {
+        "name": "horn_coral_block",
+        "hsl": [
+            53.6,
+            65.78947368421052,
+            55.294117647058826
+        ],
+        "image": "horn_coral_block.png"
+    },
+    {
+        "name": "ice",
+        "hsl": [
+            219.25233644859813,
+            96.39639639639641,
+            78.23529411764706
+        ],
+        "image": "ice.png"
+    },
+    {
+        "name": "iron_block",
+        "hsl": [
+            0,
+            0,
+            86.27450980392157
+        ],
+        "image": "iron_block.png"
+    },
+    {
+        "name": "iron_ore",
+        "hsl": [
+            27.69230769230767,
+            5.1792828685258945,
+            50.78431372549019
+        ],
+        "image": "iron_ore.png"
+    },
+    {
+        "name": "jungle_leaves",
+        "hsl": [
+            46.15384615384608,
+            6.22009569377991,
+            59.01960784313726
+        ],
+        "image": "jungle_leaves.png"
+    },
+    {
+        "name": "jungle_log_top",
+        "hsl": [
+            28.86075949367088,
+            27.33564013840831,
+            43.333333333333336
+        ],
+        "image": "jungle_log_top.png"
+    },
+    {
+        "name": "jungle_log",
+        "hsl": [
+            43,
+            54.545454545454554,
+            21.56862745098039
+        ],
+        "image": "jungle_log.png"
+    },
+    {
+        "name": "jungle_planks",
+        "hsl": [
+            25.822784810126585,
+            29.36802973977695,
+            47.25490196078431
+        ],
+        "image": "jungle_planks.png"
+    },
+    {
+        "name": "lapis_block",
+        "hsl": [
+            220.1834862385321,
+            32.15339233038348,
+            33.529411764705884
+        ],
+        "image": "lapis_block.png"
+    },
+    {
+        "name": "lapis_ore",
+        "hsl": [
+            220.58823529411762,
+            12.977099236641227,
+            48.62745098039216
+        ],
+        "image": "lapis_ore.png"
+    },
+    {
+        "name": "light_blue_concrete",
+        "hsl": [
+            202.82208588957056,
+            59.272727272727266,
+            46.07843137254902
+        ],
+        "image": "light_blue_concrete.png"
+    },
+    {
+        "name": "light_blue_concrete_powder",
+        "hsl": [
+            193.8129496402878,
+            62.33183856502242,
+            56.27450980392157
+        ],
+        "image": "light_blue_concrete_powder.png"
+    },
+    {
+        "name": "light_blue_stained_glass",
+        "hsl": [
+            213.45132743362834,
+            58.549222797927456,
+            62.15686274509804
+        ],
+        "image": "light_blue_stained_glass.png"
+    },
+    {
+        "name": "light_blue_terracotta",
+        "hsl": [
+            248.27586206896552,
+            11.026615969581746,
+            48.4313725490196
+        ],
+        "image": "light_blue_terracotta.png"
+    },
+    {
+        "name": "light_blue_wool",
+        "hsl": [
+            195.8490566037736,
+            67.65957446808511,
+            53.92156862745098
+        ],
+        "image": "light_blue_wool.png"
+    },
+    {
+        "name": "light_gray_concrete",
+        "hsl": [
+            60,
+            4.166666666666663,
+            47.05882352941176
+        ],
+        "image": "light_gray_concrete.png"
+    },
+    {
+        "name": "light_gray_concrete_powder",
+        "hsl": [
+            60,
+            3.3816425120772826,
+            59.411764705882355
+        ],
+        "image": "light_gray_concrete_powder.png"
+    },
+    {
+        "name": "light_gray_stained_glass",
+        "hsl": [
+            0,
+            0,
+            59.6078431372549
+        ],
+        "image": "light_gray_stained_glass.png"
+    },
+    {
+        "name": "light_gray_terracotta",
+        "hsl": [
+            14.594594594594591,
+            13.357400722021659,
+            45.68627450980392
+        ],
+        "image": "light_gray_terracotta.png"
+    },
+    {
+        "name": "light_gray_wool",
+        "hsl": [
+            60,
+            3.0042918454935643,
+            54.313725490196084
+        ],
+        "image": "light_gray_wool.png"
+    },
+    {
+        "name": "lime_concrete",
+        "hsl": [
+            91.25,
+            45.56962025316456,
+            38.03921568627451
+        ],
+        "image": "lime_concrete.png"
+    },
+    {
+        "name": "lime_concrete_powder",
+        "hsl": [
+            86.12244897959184,
+            52.68817204301075,
+            45.294117647058826
+        ],
+        "image": "lime_concrete_powder.png"
+    },
+    {
+        "name": "lime_stained_glass",
+        "hsl": [
+            85.6179775280899,
+            63.57142857142857,
+            45.09803921568628
+        ],
+        "image": "lime_stained_glass.png"
+    },
+    {
+        "name": "lime_terracotta",
+        "hsl": [
+            72.92307692307693,
+            38.01169590643274,
+            33.529411764705884
+        ],
+        "image": "lime_terracotta.png"
+    },
+    {
+        "name": "lime_wool",
+        "hsl": [
+            87.54716981132076,
+            53.17725752508361,
+            41.37254901960784
+        ],
+        "image": "lime_wool.png"
+    },
+    {
+        "name": "lodestone_top",
+        "hsl": [
+            219.9999999999998,
+            2.85714285714286,
+            58.823529411764696
+        ],
+        "image": "lodestone_top.png"
+    },
+    {
+        "name": "lodestone_side",
+        "hsl": [
+            225.00000000000006,
+            1.6528925619834711,
+            47.45098039215686
+        ],
+        "image": "lodestone_side.png"
+    },
+    {
+        "name": "magenta_concrete",
+        "hsl": [
+            304.9586776859504,
+            41.296928327645055,
+            42.549019607843135
+        ],
+        "image": "magenta_concrete.png"
+    },
+    {
+        "name": "magenta_concrete_powder",
+        "hsl": [
+            304.4036697247706,
+            46.78111587982832,
+            54.31372549019608
+        ],
+        "image": "magenta_concrete_powder.png"
+    },
+    {
+        "name": "magenta_stained_glass",
+        "hsl": [
+            284.0287769784173,
+            63.4703196347032,
+            57.05882352941176
+        ],
+        "image": "magenta_stained_glass.png"
+    },
+    {
+        "name": "magenta_terracotta",
+        "hsl": [
+            339.6774193548387,
+            22.794117647058826,
+            46.666666666666664
+        ],
+        "image": "magenta_terracotta.png"
+    },
+    {
+        "name": "magenta_wool",
+        "hsl": [
+            304.9586776859504,
+            48.20717131474104,
+            50.78431372549019
+        ],
+        "image": "magenta_wool.png"
+    },
+    {
+        "name": "mangrove_leaves",
+        "hsl": [
+            0,
+            0.39525691699604604,
+            50.3921568627451
+        ],
+        "image": "mangrove_leaves.png"
+    },
+    {
+        "name": "mangrove_log_top",
+        "hsl": [
+            6.8852459016393475,
+            42.06896551724138,
+            28.431372549019606
+        ],
+        "image": "mangrove_log_top.png"
+    },
+    {
+        "name": "mangrove_log",
+        "hsl": [
+            36.27906976744187,
+            34.39999999999999,
+            24.50980392156863
+        ],
+        "image": "mangrove_log.png"
+    },
+    {
+        "name": "mangrove_planks",
+        "hsl": [
+            4.347826086956518,
+            41.31736526946108,
+            32.745098039215684
+        ],
+        "image": "mangrove_planks.png"
+    },
+    {
+        "name": "melon_top",
+        "hsl": [
+            77.89473684210526,
+            34.131736526946106,
+            34.509803921568626
+        ],
+        "image": "melon_top.png"
+    },
+    {
+        "name": "melon_side",
+        "hsl": [
+            76.55172413793102,
+            34.73053892215569,
+            34.509803921568626
+        ],
+        "image": "melon_side.png"
+    },
+    {
+        "name": "mossy_cobblestone",
+        "hsl": [
+            80.8695652173913,
+            10.798122065727702,
+            41.76470588235294
+        ],
+        "image": "mossy_cobblestone.png"
+    },
+    {
+        "name": "mossy_stone_bricks",
+        "hsl": [
+            82.49999999999997,
+            7.079646017699115,
+            44.31372549019608
+        ],
+        "image": "mossy_stone_bricks.png"
+    },
+    {
+        "name": "moss_block",
+        "hsl": [
+            79.3846153846154,
+            41.93548387096773,
+            30.3921568627451
+        ],
+        "image": "moss_block.png"
+    },
+    {
+        "name": "mud",
+        "hsl": [
+            284.99999999999994,
+            3.389830508474576,
+            23.137254901960784
+        ],
+        "image": "mud.png"
+    },
+    {
+        "name": "muddy_mangrove_roots_top",
+        "hsl": [
+            33.599999999999994,
+            21.73913043478261,
+            22.54901960784314
+        ],
+        "image": "muddy_mangrove_roots_top.png"
+    },
+    {
+        "name": "muddy_mangrove_roots_side",
+        "hsl": [
+            33.00000000000001,
+            17.24137931034483,
+            22.745098039215687
+        ],
+        "image": "muddy_mangrove_roots_side.png"
+    },
+    {
+        "name": "mud_bricks",
+        "hsl": [
+            25.86206896551724,
+            19.727891156462583,
+            42.35294117647059
+        ],
+        "image": "mud_bricks.png"
+    },
+    {
+        "name": "mushroom_stem",
+        "hsl": [
+            38.823529411764774,
+            14.049586776859499,
+            76.27450980392156
+        ],
+        "image": "mushroom_stem.png"
+    },
+    {
+        "name": "netherite_block",
+        "hsl": [
+            324.00000000000006,
+            3.937007874015751,
+            24.901960784313726
+        ],
+        "image": "netherite_block.png"
+    },
+    {
+        "name": "netherrack",
+        "hsl": [
+            0,
+            44.117647058823536,
+            26.666666666666668
+        ],
+        "image": "netherrack.png"
+    },
+    {
+        "name": "nether_bricks",
+        "hsl": [
+            349.09090909090907,
+            33.333333333333336,
+            12.941176470588234
+        ],
+        "image": "nether_bricks.png"
+    },
+    {
+        "name": "nether_gold_ore",
+        "hsl": [
+            10.684931506849317,
+            46.4968152866242,
+            30.784313725490197
+        ],
+        "image": "nether_gold_ore.png"
+    },
+    {
+        "name": "nether_quartz_ore",
+        "hsl": [
+            4.285714285714293,
+            31.11111111111111,
+            35.294117647058826
+        ],
+        "image": "nether_quartz_ore.png"
+    },
+    {
+        "name": "nether_wart_block",
+        "hsl": [
+            0.5309734513274336,
+            96.58119658119656,
+            22.941176470588236
+        ],
+        "image": "nether_wart_block.png"
+    },
+    {
+        "name": "note_block",
+        "hsl": [
+            22.500000000000004,
+            36.92307692307692,
+            25.49019607843137
+        ],
+        "image": "note_block.png"
+    },
+    {
+        "name": "oak_leaves",
+        "hsl": [
+            0,
+            0,
+            56.470588235294116
+        ],
+        "image": "oak_leaves.png"
+    },
+    {
+        "name": "oak_log_top",
+        "hsl": [
+            37.6923076923077,
+            27.272727272727277,
+            43.92156862745098
+        ],
+        "image": "oak_log_top.png"
+    },
+    {
+        "name": "oak_log",
+        "hsl": [
+            35.172413793103445,
+            36.24999999999999,
+            31.372549019607842
+        ],
+        "image": "oak_log.png"
+    },
+    {
+        "name": "obsidian",
+        "hsl": [
+            257.1428571428571,
+            38.88888888888889,
+            7.0588235294117645
+        ],
+        "image": "obsidian.png"
+    },
+    {
+        "name": "ochre_froglight_top",
+        "hsl": [
+            51.81818181818185,
+            84.61538461538451,
+            89.80392156862744
+        ],
+        "image": "ochre_froglight_top.png"
+    },
+    {
+        "name": "ochre_froglight_side",
+        "hsl": [
+            48.571428571428555,
+            75.90361445783134,
+            83.72549019607844
+        ],
+        "image": "ochre_froglight_side.png"
+    },
+    {
+        "name": "orange_concrete",
+        "hsl": [
+            25.82959641255605,
+            78.24561403508771,
+            44.11764705882353
+        ],
+        "image": "orange_concrete.png"
+    },
+    {
+        "name": "orange_concrete_powder",
+        "hsl": [
+            30.769230769230774,
+            77.68924302788844,
+            50.78431372549019
+        ],
+        "image": "orange_concrete_powder.png"
+    },
+    {
+        "name": "orange_stained_glass",
+        "hsl": [
+            28.363636363636363,
+            67.3469387755102,
+            51.96078431372548
+        ],
+        "image": "orange_stained_glass.png"
+    },
+    {
+        "name": "orange_terracotta",
+        "hsl": [
+            22.258064516129036,
+            39.99999999999999,
+            39.21568627450981
+        ],
+        "image": "orange_terracotta.png"
+    },
+    {
+        "name": "orange_wool",
+        "hsl": [
+            26.60633484162896,
+            88.75502008032127,
+            51.17647058823529
+        ],
+        "image": "orange_wool.png"
+    },
+    {
+        "name": "oxidized_copper",
+        "hsl": [
+            158.25,
+            30.075187969924805,
+            47.843137254901954
+        ],
+        "image": "oxidized_copper.png"
+    },
+    {
+        "name": "oxidized_cut_copper",
+        "hsl": [
+            157.8082191780822,
+            26.35379061371841,
+            45.68627450980392
+        ],
+        "image": "oxidized_cut_copper.png"
+    },
+    {
+        "name": "packed_ice",
+        "hsl": [
+            218.88888888888889,
+            91.52542372881352,
+            76.86274509803921
+        ],
+        "image": "packed_ice.png"
+    },
+    {
+        "name": "packed_mud",
+        "hsl": [
+            26.129032258064516,
+            21.52777777777778,
+            43.529411764705884
+        ],
+        "image": "packed_mud.png"
+    },
+    {
+        "name": "pearlescent_froglight_top",
+        "hsl": [
+            0,
+            25,
+            95.29411764705881
+        ],
+        "image": "pearlescent_froglight_top.png"
+    },
+    {
+        "name": "pearlescent_froglight_side",
+        "hsl": [
+            341.9999999999999,
+            19.999999999999964,
+            90.19607843137254
+        ],
+        "image": "pearlescent_froglight_side.png"
+    },
+    {
+        "name": "pink_concrete",
+        "hsl": [
+            337.6991150442478,
+            57.948717948717956,
+            61.76470588235294
+        ],
+        "image": "pink_concrete.png"
+    },
+    {
+        "name": "pink_concrete_powder",
+        "hsl": [
+            337.89473684210526,
+            59.375000000000014,
+            74.90196078431373
+        ],
+        "image": "pink_concrete_powder.png"
+    },
+    {
+        "name": "pink_stained_glass",
+        "hsl": [
+            340.8620689655172,
+            84.05797101449278,
+            72.94117647058825
+        ],
+        "image": "pink_stained_glass.png"
+    },
+    {
+        "name": "pink_terracotta",
+        "hsl": [
+            359.2857142857143,
+            31.111111111111107,
+            47.05882352941176
+        ],
+        "image": "pink_terracotta.png"
+    },
+    {
+        "name": "pink_wool",
+        "hsl": [
+            340.82474226804123,
+            74.04580152671755,
+            74.31372549019608
+        ],
+        "image": "pink_wool.png"
+    },
+    {
+        "name": "polished_andesite",
+        "hsl": [
+            180,
+            0.8196721311475381,
+            52.156862745098046
+        ],
+        "image": "polished_andesite.png"
+    },
+    {
+        "name": "polished_basalt_top",
+        "hsl": [
+            240,
+            0.9999999999999963,
+            39.21568627450981
+        ],
+        "image": "polished_basalt_top.png"
+    },
+    {
+        "name": "polished_basalt_side",
+        "hsl": [
+            254.99999999999994,
+            2.2222222222222223,
+            35.29411764705882
+        ],
+        "image": "polished_basalt_side.png"
+    },
+    {
+        "name": "polished_blackstone",
+        "hsl": [
+            273.3333333333333,
+            8.571428571428577,
+            20.588235294117645
+        ],
+        "image": "polished_blackstone.png"
+    },
+    {
+        "name": "polished_blackstone_bricks",
+        "hsl": [
+            285,
+            8.695652173913043,
+            18.03921568627451
+        ],
+        "image": "polished_blackstone_bricks.png"
+    },
+    {
+        "name": "polished_deepslate",
+        "hsl": [
+            240,
+            0.6896551724137907,
+            28.431372549019606
+        ],
+        "image": "polished_deepslate.png"
+    },
+    {
+        "name": "polished_diorite",
+        "hsl": [
+            240,
+            0.8130081300812978,
+            75.88235294117646
+        ],
+        "image": "polished_diorite.png"
+    },
+    {
+        "name": "polished_granite",
+        "hsl": [
+            16.615384615384624,
+            24.34456928838951,
+            47.647058823529406
+        ],
+        "image": "polished_granite.png"
+    },
+    {
+        "name": "prismarine_bricks",
+        "hsl": [
+            169.16666666666669,
+            29.999999999999993,
+            52.94117647058824
+        ],
+        "image": "prismarine_bricks.png"
+    },
+    {
+        "name": "purple_concrete",
+        "hsl": [
+            272.90322580645164,
+            38.509316770186345,
+            36.86274509803922
+        ],
+        "image": "purple_concrete.png"
+    },
+    {
+        "name": "purple_concrete_powder",
+        "hsl": [
+            277.3770491803279,
+            44.202898550724626,
+            45.88235294117647
+        ],
+        "image": "purple_concrete_powder.png"
+    },
+    {
+        "name": "purple_stained_glass",
+        "hsl": [
+            273.9130434782609,
+            42.75092936802973,
+            47.25490196078431
+        ],
+        "image": "purple_stained_glass.png"
+    },
+    {
+        "name": "purple_terracotta",
+        "hsl": [
+            340,
+            25.53191489361702,
+            36.86274509803922
+        ],
+        "image": "purple_terracotta.png"
+    },
+    {
+        "name": "purple_wool",
+        "hsl": [
+            276.6412213740458,
+            44.40677966101696,
+            42.15686274509804
+        ],
+        "image": "purple_wool.png"
+    },
+    {
+        "name": "purpur_block",
+        "hsl": [
+            300,
+            20.560747663551393,
+            58.0392156862745
+        ],
+        "image": "purpur_block.png"
+    },
+    {
+        "name": "purpur_pillar_top",
+        "hsl": [
+            301.3636363636364,
+            20.95238095238096,
+            58.82352941176471
+        ],
+        "image": "purpur_pillar_top.png"
+    },
+    {
+        "name": "purpur_pillar",
+        "hsl": [
+            301.3953488372093,
+            20.574162679425847,
+            59.01960784313726
+        ],
+        "image": "purpur_pillar.png"
+    },
+    {
+        "name": "quartz_block_top",
+        "hsl": [
+            32.3076923076923,
+            25.4901960784314,
+            90
+        ],
+        "image": "quartz_block_top.png"
+    },
+    {
+        "name": "quartz_block_side",
+        "hsl": [
+            32.3076923076923,
+            25.4901960784314,
+            90
+        ],
+        "image": "quartz_block_side.png"
+    },
+    {
+        "name": "quartz_bricks",
+        "hsl": [
+            32.30769230769236,
+            24.5283018867924,
+            89.60784313725489
+        ],
+        "image": "quartz_bricks.png"
+    },
+    {
+        "name": "quartz_pillar_top",
+        "hsl": [
+            35.000000000000064,
+            23.07692307692303,
+            89.80392156862744
+        ],
+        "image": "quartz_pillar_top.png"
+    },
+    {
+        "name": "quartz_pillar",
+        "hsl": [
+            34.99999999999998,
+            24.000000000000032,
+            90.19607843137256
+        ],
+        "image": "quartz_pillar.png"
+    },
+    {
+        "name": "raw_copper_block",
+        "hsl": [
+            21.600000000000005,
+            27.07581227436822,
+            45.68627450980392
+        ],
+        "image": "raw_copper_block.png"
+    },
+    {
+        "name": "raw_gold_block",
+        "hsl": [
+            41.82857142857142,
+            72.61410788381743,
+            52.74509803921569
+        ],
+        "image": "raw_gold_block.png"
+    },
+    {
+        "name": "raw_iron_block",
+        "hsl": [
+            29.49152542372881,
+            24.894514767932492,
+            53.529411764705884
+        ],
+        "image": "raw_iron_block.png"
+    },
+    {
+        "name": "redstone_block",
+        "hsl": [
+            7.017543859649123,
+            51.97568389057751,
+            35.490196078431374
+        ],
+        "image": "redstone_block.png"
+    },
+    {
+        "name": "redstone_lamp",
+        "hsl": [
+            23.07692307692308,
+            51.99999999999999,
+            24.50980392156863
+        ],
+        "image": "redstone_lamp.png"
+    },
+    {
+        "name": "redstone_lamp_on",
+        "hsl": [
+            30.000000000000007,
+            26.797385620915033,
+            40
+        ],
+        "image": "redstone_lamp_on.png"
+    },
+    {
+        "name": "redstone_ore",
+        "hsl": [
+            0,
+            11.538461538461542,
+            49.01960784313726
+        ],
+        "image": "redstone_ore.png"
+    },
+    {
+        "name": "red_concrete",
+        "hsl": [
+            0,
+            32.53731343283582,
+            34.31372549019608
+        ],
+        "image": "red_concrete.png"
+    },
+    {
+        "name": "red_concrete_powder",
+        "hsl": [
+            1.5384615384615368,
+            40.20618556701031,
+            42.94117647058824
+        ],
+        "image": "red_concrete_powder.png"
+    },
+    {
+        "name": "red_mushroom_block",
+        "hsl": [
+            0.7741935483870969,
+            58.490566037735846,
+            48.03921568627451
+        ],
+        "image": "red_mushroom_block.png"
+    },
+    {
+        "name": "red_nether_bricks",
+        "hsl": [
+            358.0952380952381,
+            81.81818181818181,
+            15.098039215686276
+        ],
+        "image": "red_nether_bricks.png"
+    },
+    {
+        "name": "red_sand",
+        "hsl": [
+            26.58227848101266,
+            55.244755244755254,
+            43.92156862745098
+        ],
+        "image": "red_sand.png"
+    },
+    {
+        "name": "red_stained_glass",
+        "hsl": [
+            0,
+            33.116883116883116,
+            39.6078431372549
+        ],
+        "image": "red_stained_glass.png"
+    },
+    {
+        "name": "red_terracotta",
+        "hsl": [
+            8.75,
+            30,
+            37.254901960784316
+        ],
+        "image": "red_terracotta.png"
+    },
+    {
+        "name": "red_wool",
+        "hsl": [
+            1.904761904761905,
+            40.12738853503184,
+            38.431372549019606
+        ],
+        "image": "red_wool.png"
+    },
+    {
+        "name": "rooted_dirt",
+        "hsl": [
+            24.179104477611943,
+            23.183391003460212,
+            43.333333333333336
+        ],
+        "image": "rooted_dirt.png"
+    },
+    {
+        "name": "sand",
+        "hsl": [
+            47.14285714285715,
+            43.75,
+            74.90196078431373
+        ],
+        "image": "sand.png"
+    },
+    {
+        "name": "shroomlight",
+        "hsl": [
+            26.8235294117647,
+            85.85858585858587,
+            61.1764705882353
+        ],
+        "image": "shroomlight.png"
+    },
+    {
+        "name": "smooth_basalt",
+        "hsl": [
+            249.99999999999997,
+            4.000000000000004,
+            29.411764705882355
+        ],
+        "image": "smooth_basalt.png"
+    },
+    {
+        "name": "quartz_block_bottom",
+        "hsl": [
+            27.692307692307704,
+            26.530612244897984,
+            90.3921568627451
+        ],
+        "image": "quartz_block_bottom.png"
+    },
+    {
+        "name": "smooth_stone",
+        "hsl": [
+            0,
+            0,
+            62.35294117647059
+        ],
+        "image": "smooth_stone.png"
+    },
+    {
+        "name": "smooth_stone_slab_side",
+        "hsl": [
+            0,
+            0,
+            65.49019607843137
+        ],
+        "image": "smooth_stone_slab_side.png"
+    },
+    {
+        "name": "snow",
+        "hsl": [
+            180,
+            71.42857142857183,
+            98.62745098039215
+        ],
+        "image": "snow.png"
+    },
+    {
+        "name": "soul_sand",
+        "hsl": [
+            22,
+            22.727272727272723,
+            25.882352941176467
+        ],
+        "image": "soul_sand.png"
+    },
+    {
+        "name": "soul_soil",
+        "hsl": [
+            22.758620689655167,
+            23.57723577235772,
+            24.11764705882353
+        ],
+        "image": "soul_soil.png"
+    },
+    {
+        "name": "spawner",
+        "hsl": [
+            216.92307692307693,
+            26.53061224489796,
+            19.215686274509803
+        ],
+        "image": "spawner.png"
+    },
+    {
+        "name": "sponge",
+        "hsl": [
+            58.01652892561983,
+            50.627615062761514,
+            53.13725490196079
+        ],
+        "image": "sponge.png"
+    },
+    {
+        "name": "spruce_leaves",
+        "hsl": [
+            0,
+            0,
+            49.411764705882355
+        ],
+        "image": "spruce_leaves.png"
+    },
+    {
+        "name": "spruce_log_top",
+        "hsl": [
+            31.93548387096774,
+            39.74358974358974,
+            30.58823529411765
+        ],
+        "image": "spruce_log_top.png"
+    },
+    {
+        "name": "spruce_log",
+        "hsl": [
+            29.999999999999993,
+            55.26315789473685,
+            14.901960784313726
+        ],
+        "image": "spruce_log.png"
+    },
+    {
+        "name": "spruce_planks",
+        "hsl": [
+            32.72727272727273,
+            40.24390243902438,
+            32.15686274509804
+        ],
+        "image": "spruce_planks.png"
+    },
+    {
+        "name": "stone",
+        "hsl": [
+            0,
+            0,
+            49.411764705882355
+        ],
+        "image": "stone.png"
+    },
+    {
+        "name": "stone_bricks",
+        "hsl": [
+            0,
+            0,
+            47.84313725490196
+        ],
+        "image": "stone_bricks.png"
+    },
+    {
+        "name": "stripped_acacia_log_top",
+        "hsl": [
+            20.526315789473685,
+            39.041095890410965,
+            42.74509803921569
+        ],
+        "image": "stripped_acacia_log_top.png"
+    },
+    {
+        "name": "stripped_acacia_log",
+        "hsl": [
+            17.217391304347824,
+            41.81818181818182,
+            46.07843137254902
+        ],
+        "image": "stripped_acacia_log.png"
+    },
+    {
+        "name": "stripped_bamboo_block_top",
+        "hsl": [
+            49.142857142857146,
+            40.54054054054054,
+            49.2156862745098
+        ],
+        "image": "stripped_bamboo_block_top.png"
+    },
+    {
+        "name": "stripped_bamboo_block",
+        "hsl": [
+            49.380530973451336,
+            47.679324894514764,
+            53.529411764705884
+        ],
+        "image": "stripped_bamboo_block.png"
+    },
+    {
+        "name": "stripped_birch_log_top",
+        "hsl": [
+            44.80000000000001,
+            36.94581280788177,
+            60.19607843137255
+        ],
+        "image": "stripped_birch_log_top.png"
+    },
+    {
+        "name": "stripped_birch_log",
+        "hsl": [
+            44.0506329113924,
+            40.51282051282052,
+            61.76470588235294
+        ],
+        "image": "stripped_birch_log.png"
+    },
+    {
+        "name": "stripped_cherry_log_top",
+        "hsl": [
+            6.66666666666667,
+            48.09160305343512,
+            74.31372549019608
+        ],
+        "image": "stripped_cherry_log_top.png"
+    },
+    {
+        "name": "stripped_cherry_log",
+        "hsl": [
+            356.57142857142856,
+            46.666666666666664,
+            70.58823529411764
+        ],
+        "image": "stripped_cherry_log.png"
+    },
+    {
+        "name": "stripped_crimson_stem",
+        "hsl": [
+            335.25,
+            25.316455696202528,
+            38.03921568627451
+        ],
+        "image": "stripped_crimson_stem.png"
+    },
+    {
+        "name": "stripped_crimson_stem_top",
+        "hsl": [
+            335.45454545454544,
+            37.07865168539327,
+            34.90196078431372
+        ],
+        "image": "stripped_crimson_stem_top.png"
+    },
+    {
+        "name": "stripped_dark_oak_log_top",
+        "hsl": [
+            29.302325581395348,
+            48.31460674157303,
+            17.450980392156865
+        ],
+        "image": "stripped_dark_oak_log_top.png"
+    },
+    {
+        "name": "stripped_dark_oak_log",
+        "hsl": [
+            34.05405405405406,
+            33.944954128440365,
+            21.372549019607842
+        ],
+        "image": "stripped_dark_oak_log.png"
+    },
+    {
+        "name": "stripped_jungle_log_top",
+        "hsl": [
+            29.28571428571428,
+            32.06106870229008,
+            48.62745098039216
+        ],
+        "image": "stripped_jungle_log_top.png"
+    },
+    {
+        "name": "stripped_jungle_log",
+        "hsl": [
+            33.488372093023266,
+            33.85826771653543,
+            50.19607843137255
+        ],
+        "image": "stripped_jungle_log.png"
+    },
+    {
+        "name": "stripped_mangrove_log_top",
+        "hsl": [
+            0.909090909090906,
+            43.421052631578945,
+            29.80392156862745
+        ],
+        "image": "stripped_mangrove_log_top.png"
+    },
+    {
+        "name": "stripped_mangrove_log",
+        "hsl": [
+            5,
+            42.857142857142854,
+            32.94117647058823
+        ],
+        "image": "stripped_mangrove_log.png"
+    },
+    {
+        "name": "stripped_oak_log_top",
+        "hsl": [
+            38.31325301204819,
+            30.402930402930405,
+            46.470588235294116
+        ],
+        "image": "stripped_oak_log_top.png"
+    },
+    {
+        "name": "stripped_oak_log",
+        "hsl": [
+            38.24175824175824,
+            36.84210526315789,
+            51.56862745098039
+        ],
+        "image": "stripped_oak_log.png"
+    },
+    {
+        "name": "stripped_spruce_log_top",
+        "hsl": [
+            33.559322033898304,
+            38.56209150326797,
+            30.000000000000004
+        ],
+        "image": "stripped_spruce_log_top.png"
+    },
+    {
+        "name": "stripped_spruce_log",
+        "hsl": [
+            35.62500000000001,
+            38.095238095238095,
+            32.94117647058823
+        ],
+        "image": "stripped_spruce_log.png"
+    },
+    {
+        "name": "stripped_warped_stem",
+        "hsl": [
+            178.06451612903226,
+            30.89700996677741,
+            40.98039215686274
+        ],
+        "image": "stripped_warped_stem.png"
+    },
+    {
+        "name": "stripped_warped_stem_top",
+        "hsl": [
+            176.10389610389612,
+            23.404255319148934,
+            35.49019607843137
+        ],
+        "image": "stripped_warped_stem_top.png"
+    },
+    {
+        "name": "structure_block",
+        "hsl": [
+            296.24999999999994,
+            9.75609756097561,
+            32.15686274509804
+        ],
+        "image": "structure_block.png"
+    },
+    {
+        "name": "structure_block_corner",
+        "hsl": [
+            290,
+            9.375000000000005,
+            25.098039215686274
+        ],
+        "image": "structure_block_corner.png"
+    },
+    {
+        "name": "structure_block_data",
+        "hsl": [
+            292,
+            10.204081632653054,
+            28.823529411764703
+        ],
+        "image": "structure_block_data.png"
+    },
+    {
+        "name": "structure_block_load",
+        "hsl": [
+            290.7692307692308,
+            10.077519379844963,
+            25.294117647058822
+        ],
+        "image": "structure_block_load.png"
+    },
+    {
+        "name": "structure_block_save",
+        "hsl": [
+            292.5,
+            10,
+            31.372549019607842
+        ],
+        "image": "structure_block_save.png"
+    },
+    {
+        "name": "suspicious_gravel_0",
+        "hsl": [
+            9.999999999999977,
+            2.3437499999999973,
+            49.80392156862745
+        ],
+        "image": "suspicious_gravel_0.png"
+    },
+    {
+        "name": "suspicious_gravel_1",
+        "hsl": [
+            9.999999999999977,
+            2.3255813953488342,
+            49.411764705882355
+        ],
+        "image": "suspicious_gravel_1.png"
+    },
+    {
+        "name": "suspicious_gravel_2",
+        "hsl": [
+            9.999999999999952,
+            2.4390243902439055,
+            48.23529411764706
+        ],
+        "image": "suspicious_gravel_2.png"
+    },
+    {
+        "name": "suspicious_gravel_3",
+        "hsl": [
+            9.999999999999977,
+            2.4793388429752037,
+            47.45098039215686
+        ],
+        "image": "suspicious_gravel_3.png"
+    },
+    {
+        "name": "suspicious_sand_0",
+        "hsl": [
+            45.762711864406796,
+            44.3609022556391,
+            73.92156862745098
+        ],
+        "image": "suspicious_sand_0.png"
+    },
+    {
+        "name": "suspicious_sand_1",
+        "hsl": [
+            45.99999999999999,
+            44.11764705882353,
+            73.33333333333334
+        ],
+        "image": "suspicious_sand_1.png"
+    },
+    {
+        "name": "suspicious_sand_2",
+        "hsl": [
+            45.71428571428571,
+            43.44827586206897,
+            71.56862745098039
+        ],
+        "image": "suspicious_sand_2.png"
+    },
+    {
+        "name": "suspicious_sand_3",
+        "hsl": [
+            43.63636363636365,
+            42.85714285714285,
+            69.80392156862744
+        ],
+        "image": "suspicious_sand_3.png"
+    },
+    {
+        "name": "target_top",
+        "hsl": [
+            10.588235294117636,
+            53.968253968253954,
+            75.29411764705883
+        ],
+        "image": "target_top.png"
+    },
+    {
+        "name": "target_side",
+        "hsl": [
+            7.868852459016392,
+            53.982300884955755,
+            77.84313725490196
+        ],
+        "image": "target_side.png"
+    },
+    {
+        "name": "terracotta",
+        "hsl": [
+            18.571428571428577,
+            28.965517241379313,
+            43.13725490196079
+        ],
+        "image": "terracotta.png"
+    },
+    {
+        "name": "tinted_glass",
+        "hsl": [
+            285,
+            9.523809523809524,
+            16.470588235294116
+        ],
+        "image": "tinted_glass.png"
+    },
+    {
+        "name": "tube_coral_block",
+        "hsl": [
+            225.56962025316457,
+            62.20472440944882,
+            50.19607843137255
+        ],
+        "image": "tube_coral_block.png"
+    },
+    {
+        "name": "tuff",
+        "hsl": [
+            69.99999999999997,
+            2.83018867924528,
+            41.56862745098039
+        ],
+        "image": "tuff.png"
+    },
+    {
+        "name": "verdant_froglight_top",
+        "hsl": [
+            116.25000000000001,
+            42.10526315789476,
+            92.54901960784314
+        ],
+        "image": "verdant_froglight_top.png"
+    },
+    {
+        "name": "verdant_froglight_side",
+        "hsl": [
+            113.33333333333336,
+            40.29850746268656,
+            86.86274509803921
+        ],
+        "image": "verdant_froglight_side.png"
+    },
+    {
+        "name": "warped_planks",
+        "hsl": [
+            174.19354838709677,
+            41.891891891891895,
+            29.01960784313725
+        ],
+        "image": "warped_planks.png"
+    },
+    {
+        "name": "warped_stem_top",
+        "hsl": [
+            180,
+            34.96932515337423,
+            31.960784313725494
+        ],
+        "image": "warped_stem_top.png"
+    },
+    {
+        "name": "warped_wart_block",
+        "hsl": [
+            180.6122448979592,
+            68.05555555555554,
+            28.235294117647058
+        ],
+        "image": "warped_wart_block.png"
+    },
+    {
+        "name": "weathered_copper",
+        "hsl": [
+            122.66666666666669,
+            18.072289156626503,
+            51.17647058823529
+        ],
+        "image": "weathered_copper.png"
+    },
+    {
+        "name": "weathered_cut_copper",
+        "hsl": [
+            116.84210526315792,
+            14.728682170542633,
+            49.411764705882355
+        ],
+        "image": "weathered_cut_copper.png"
+    },
+    {
+        "name": "wet_sponge",
+        "hsl": [
+            65.40540540540542,
+            42.85714285714286,
+            49.21568627450981
+        ],
+        "image": "wet_sponge.png"
+    },
+    {
+        "name": "white_concrete",
+        "hsl": [
+            188.57142857142856,
+            7.865168539325844,
+            82.54901960784314
+        ],
+        "image": "white_concrete.png"
+    },
+    {
+        "name": "white_concrete_powder",
+        "hsl": [
+            210.00000000000043,
+            3.571428571428607,
+            89.01960784313725
+        ],
+        "image": "white_concrete_powder.png"
+    },
+    {
+        "name": "white_stained_glass",
+        "hsl": [
+            0,
+            0,
+            100
+        ],
+        "image": "white_stained_glass.png"
+    },
+    {
+        "name": "white_terracotta",
+        "hsl": [
+            20.81632653061224,
+            35.25179856115107,
+            72.74509803921568
+        ],
+        "image": "white_terracotta.png"
+    },
+    {
+        "name": "white_wool",
+        "hsl": [
+            199.99999999999983,
+            7.692307692307743,
+            92.3529411764706
+        ],
+        "image": "white_wool.png"
+    },
+    {
+        "name": "yellow_concrete",
+        "hsl": [
+            42.00000000000001,
+            88.70967741935483,
+            51.37254901960784
+        ],
+        "image": "yellow_concrete.png"
+    },
+    {
+        "name": "yellow_concrete_powder",
+        "hsl": [
+            48.53932584269663,
+            80.18018018018017,
+            56.470588235294116
+        ],
+        "image": "yellow_concrete_powder.png"
+    },
+    {
+        "name": "yellow_stained_glass",
+        "hsl": [
+            60,
+            79.03930131004367,
+            55.09803921568628
+        ],
+        "image": "yellow_stained_glass.png"
+    },
+    {
+        "name": "yellow_terracotta",
+        "hsl": [
+            38.94039735099339,
+            52.249134948096874,
+            43.333333333333336
+        ],
+        "image": "yellow_terracotta.png"
+    },
+    {
+        "name": "yellow_wool",
+        "hsl": [
+            45.35885167464115,
+            94.57013574660633,
+            56.666666666666664
+        ],
+        "image": "yellow_wool.png"
+    }
+]
