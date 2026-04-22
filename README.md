@@ -22,30 +22,38 @@ Sadece elinizde olan blokları seçmek için gelişmiş arama çubuğu ve Shift+
 
 ✨ Dithering (Harmanlama): Sınırlı sayıdaki blokla daha pürüzsüz renk geçişleri (gradient) elde edin.
 
-🎯 Hassas Yerleşim: Görselinizi 1'er piksel hassasiyetle X ve Y eksenlerinde kaydırın, aynalayın veya döndürün.
+🎯 Hassas Yerleşim: Görselinizi 1'er piksel hassasiyetle ve sayısal veri girerek X ve Y eksenlerinde kaydırın, oranları milimetrik olarak ayarlayın.
 
-📦 Kurulum ve Çalıştırma (Kurulum Gerektirmez!)
+📦 Kurulum ve Çalıştırma
 
-Bu program tamamen Taşınabilir (Portable) olarak tasarlanmıştır. Kullanmak için bilgisayarınızda Python yüklü olmasına veya herhangi bir dosya çıkartmanıza gerek yoktur!
+Programı bilgisayarınızda çalıştırmak için Python 3.x yüklü olması gerekmektedir. Adımları takip ederek hemen kullanmaya başlayabilirsiniz:
 
-1. İndirme
+1. Gerekli Kütüphaneleri Kurun
 
-GitHub sayfasındaki "Releases" bölümünden işletim sisteminize uygun olan sürümü (Windows için .exe, Mac için .app) indirin.
+Terminal veya komut satırını (CMD) açarak projenin çalışması için gereken görüntü işleme ve şematik kütüphanelerini indirin:
 
-2. Çalıştırma
-
-Sadece indirdiğiniz mapart.exe dosyasına çift tıklayın ve uygulamanın tadını çıkarın!
-(Not: İlk açılışta tüm dokular ve renkler arka planda belleğe yüklendiği için programın açılması birkaç saniye sürebilir.)
-
-📷 Ekran Görüntüleri
-
-Yerleşim ve 3D Ayarları
-
-Renk ve Filtre Seçimi
+pip install Pillow litemapy
 
 
+2. Klasör Yapısını Doğrulayın
+
+Programın resimleri ve renkleri doğru okuyabilmesi için indirdiğiniz dizinde blocks klasörü ve colors.json dosyası bulunmalıdır. Klasör yapınız şöyle görünmelidir:
+
+/Minecraft-Map-Art-Studio/
+ ├── blocks/             # Minecraft bloklarının 16x16 .png resimleri
+ ├── colors.json         # Renk veritabanı ve Türkçe isim karşılıkları
+ ├── mapart.py           # Ana uygulama dosyası
+ └── README.md
 
 
+3. Uygulamayı Başlatın
+
+Terminalden mapart.py dosyasının bulunduğu klasöre gidin ve aşağıdaki komutu çalıştırın:
+
+python mapart.py
+
+
+(Not: macOS veya Linux kullanıyorsanız komutu python3 mapart.py şeklinde girmeniz gerekebilir.)
 
 👨‍💻 Geliştirici & İletişim
 
@@ -54,4 +62,3 @@ Geliştirici: Muhittin Efecan Türk
 Discord: efecan.turk0
 
 Herhangi bir hata (bug) bulursanız veya yeni bir özellik eklenmesini isterseniz, Discord üzerinden bana ulaşabilir veya bu repoda bir "Issue" açabilirsiniz!
-
